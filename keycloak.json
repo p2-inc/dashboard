@@ -1,6 +1,6 @@
 {
   "realm": "self",
-  "auth-server-url": "https://app.phasetwo.io/auth/",
+  "auth-server-url": "https://app-staging.phasetwo.io/auth/",
   "ssl-required": "external",
   "resource": "dashboard",
   "public-client": true,
